@@ -1,5 +1,4 @@
-# devsecops-protegendo-containers-docker
-DevSecOps: protegendo containers docker
+# DevSecOps: protegendo containers docker
 
 A Overture plataforma faz uso extensivo de Docker juntos tecnologia recipiente com Kubernetes. Ele nos permite facilmente abstrair os requisitos de tempo de execução dos diferentes componentes de back-end do sistema que são construídos utilizando diferentes linguagens de programação. Enquanto ainda permitindo-nos para dimensionar facilmente e obter as rotas de rede no lugar certo. Para se ter uma ideia, componentes de back-end no Overture podem ser escritos em NodeJS, Python ou Go. Nós escolher o idioma que se encaixa o trabalho. Desde que dependem fortemente de tecnologia Docker, nós também colocar uma grande quantidade de tempo para garantir esses recipientes. O que segue são alguns quick-wins em proteger seus recipientes.
 
